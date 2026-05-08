@@ -1,0 +1,2 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+izee2066    5147    4172  0 17:05 pts/1    00:00:00 nc -lvp 4444
