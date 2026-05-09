@@ -1,0 +1,15 @@
+SOC_L1_port_4444_suspicious_listener_investigation/
+│
+├── analysis/
+├── evidence/
+│   ├── screenshots/
+│   │   ├── 01_port_detection_and_verification.png
+│   │   ├── 02_process_identification.png
+│   │   ├── 03_findings_and_severity.png
+│   │   ├── 04_firewall_remediation.png
+│   │   └── 05_project_structure.png
+│
+├── remediation/
+├── README.md
+├── commands_used.md
+└── incident_report.md
